@@ -85,5 +85,5 @@ pub fn solution() {
         result += round.play();
     }
 
-    println!("Day 2 result - {}", result)
+    println!("Day 2 Part 1 result - {}", result)
 }
